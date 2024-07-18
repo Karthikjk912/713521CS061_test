@@ -1,0 +1,25 @@
+
+.navbar-collapse .navbar-nav .nav-item a:hover {
+    color: #ff523b; 
+}
+
+.cart-item {
+    margin-bottom: 1rem; 
+}
+
+
+@media (max-width: 768px) {
+    .banner-image {
+        min-height: 300px; 
+    }
+} 
+
+
+.card-title a {
+    color: #333; 
+    text-decoration: none; 
+}
+
+.card-title a:hover {
+    color: #ff523b;
+}
